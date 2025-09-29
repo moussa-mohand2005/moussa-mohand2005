@@ -7,12 +7,10 @@
 
 ---
 
-### 🌐 Connect with me
 <p align="left">
-  <a href="mailto:mohandomar.moussa@etu.uae.ac.ma" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/mohand-omar-moussa" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="40" width="40" /></a>
+  <a href="mailto:mussumuhand@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/moussa-mouhand-omar-6461b434b/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="40" width="40" /></a>
 </p>
-
 ---
 
 ### 💻 Languages
